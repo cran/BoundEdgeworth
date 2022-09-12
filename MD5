@@ -1,0 +1,14 @@
+a47ff3f73831650f62e8c56d892239db *DESCRIPTION
+c7d2009821818144a861d993a00be2e2 *NAMESPACE
+0c56b9817d330ade6e451aaf8f091ceb *R/Bound_BE.R
+3775124ee71a731f2032c20b435f26d9 *R/Bound_EE1.R
+9e216c640e1237c0081e7af42b2e2420 *R/Bound_EE1_cont.R
+4ce44ed5997a36399dfd367d32e488b7 *R/Bound_EE1_nocont.R
+f40db68a4c1ab37e8165dfd3121cff34 *R/Constants.R
+952a9bfaf6543f33e4ececd8d10ff5e1 *R/Rn_iid_integrated.R
+51faabb9ac3a463471d9bb57ad4184c3 *R/Rn_inid_integrated.R
+155f53189af8d24a3b0539dd19faef0e *R/SpecialFunctions.R
+22e997436098dcac422d8cc1837b1c92 *README.md
+5c11e96ea505ae62043ea356846ba22f *build/BoundEdgeworth.pdf
+4ac1dbd568540cfeb61a17b98dc1bc1d *man/Bound_BE.Rd
+5a50f8f24254ae505a22cdba17276fc1 *man/Bound_EE1.Rd
